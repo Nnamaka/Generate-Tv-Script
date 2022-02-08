@@ -1,2 +1,2 @@
-# Udacity-Generate-Tv-Script
-Generating TV Scriptes from past examples
+# Generate Tv Script
+Generates TV Scriptes from past examples
